@@ -1,4 +1,4 @@
-package crashtrello
+package iftttrello
 
 import (
 	"net/http"
